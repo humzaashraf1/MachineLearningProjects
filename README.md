@@ -1,11 +1,14 @@
 # Machine Learning Projects
-This repo contains ML/ deep learning projects related but not limited to patient data analysis, computer vision, natural language processing, and drug discovery.
+Models architectures in this repo: ResNET, UNET, SVM, LSTM
 
 **Classify Peptides**:
   Classifying peptides' ability to bind nano particles using long short term memory.
   
 **Cell Segmentation**:
   Background removal for cell segmentation using a UNET model.
+
+**Classify Images**:
+  Binary image classification using a ResNET34 model.
 
 **Cancer Recurrence**:
   Classifying cancer recurrence from high dimensional patient data using a support vector machine.
