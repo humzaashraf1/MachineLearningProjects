@@ -1,5 +1,8 @@
 # Machine Learning Projects
-Models architectures in this repo: ResNET, UNET, SVM, LSTM
+Models architectures in this repo: ResNET, UNET, SVM, LSTM, BERT
+
+**Predict Kinase IC50**:
+  Regression task for predicting IC50s for tyrosine kinases using BERT.
 
 **Classify Peptides**:
   Classifying peptides' ability to bind nano particles using long short term memory.
