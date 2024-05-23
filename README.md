@@ -1,2 +1,2 @@
 # Machine Learning Projects
-ResNET, UNET, SVM, Random Forest, LSTM, BERT
+BERT, LSTM, ResNET, UNET, SVM, Random Forest, PCA, UMAP, TSNE
